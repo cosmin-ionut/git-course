@@ -1,0 +1,2 @@
+the purpose of this file is to provide feature interoperability
+feature1 is enabled
